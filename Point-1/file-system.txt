@@ -1,0 +1,5 @@
+my_project/
+  ├── check_issuance.py
+  ├── last_data.pkl          (created automatically by the script)
+  ├── last_hash.txt          (created automatically by the script)
+  └── changes_log.txt        (appended by the script whenever data changes)
